@@ -41,7 +41,8 @@ of the aplication.**
 
 ### Compiling, Training, and Evaluating the Model
 
-- How many neurons, layers, and activation functions did you select for your neural network model, and why?
+- How many neurons, layers, and activation functions did you select for your neural network 
+- model, and why?
 
 **first layer with 80 neurons and 'relu' as activation function**
 
@@ -60,7 +61,8 @@ of the aplication.**
 
 - What steps did you take to try and increase model performance?
 
-**Added another layer with 10 neurons with 'relu' activation function and changed the numbers of epochs.**
+**Added another layer with 10 neurons with 'relu' activation function and changed the 
+numbers of epochs.**
 
 
 ![neural_9](png/neural_9.png).
@@ -72,3 +74,7 @@ of the aplication.**
 ![neural_8](png/neural_8.png).
 
 ## Summary 
+
+There were several attempts to increase the model's accuracy until I decided to restart 
+the kernel and ran it with one more layer and reached 70% accuracy. The model will have 
+more effective accuracy with supervised machine learning.
